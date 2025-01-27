@@ -7,6 +7,9 @@ trigger:
 - master
 
 pool:
+  name: Agent
+  demands:
+    - agent.name -equals Green
   vmImage: ubuntu-latest
 
 variables:
