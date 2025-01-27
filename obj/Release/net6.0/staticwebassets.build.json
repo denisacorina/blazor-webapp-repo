@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ak9OtdUr2KA1ZyftCMcLsmO0x9BwLEQ9/aG9qPLDkBs=",
+  "Hash": "aRB32Sqkzqpih7rT5PLp0DKMh6bWJu4CmFi7D+MELpo=",
   "Source": "GreenPipeline",
   "BasePath": "/",
   "Mode": "Root",
@@ -17,6 +17,111 @@
   ],
   "Assets": [
     {
+      "Identity": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.0\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.0\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eabu6agnn4",
+      "Integrity": "Wn02IHGVHYWQvpPDhVA/vA/ICx8Xfh4I6vjapn2Wbxk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.0\\staticwebassets\\AuthenticationService.js"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.Css.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AngleSharp.Css.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "f8c5ly818v",
+      "Integrity": "L4oiiZjQs+l7Xpt/ZuDXQhX+T6F+nLqJBzpJ8IhIEUA=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\anglesharp.css\\0.16.4\\lib\\netstandard2.0\\AngleSharp.Css.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.Diffing.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AngleSharp.Diffing.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "hmmiy12ejc",
+      "Integrity": "9xYYlWF6pOiyB0zh6SjECwfBCYr8sEodl5G0Qz6LCuY=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\anglesharp.diffing\\0.17.0\\lib\\netstandard2.0\\AngleSharp.Diffing.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AngleSharp.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "k0zd6wnn3w",
+      "Integrity": "fJcyDblaO8/mJ5RkUdiseQvBvxjmBHPshIgB/TLinT0=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\anglesharp\\0.16.1\\lib\\netstandard2.0\\AngleSharp.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharpWrappers.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AngleSharpWrappers.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "5k6yqkzkkg",
+      "Integrity": "ta8nWTA9C8d1tZoAjD60w6GKaSlrO5T2sIyMoGs9ylU=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\anglesharp.wrappers\\2.0.0\\lib\\netstandard2.1\\AngleSharpWrappers.dll"
+    },
+    {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
@@ -31,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "eh7cd7zgfp",
-      "Integrity": "4olGFUARUAgzU1RgBjMaDqp2zTAU9LHSca3wc9cioGQ=",
+      "Fingerprint": "fd9vm0c6hf",
+      "Integrity": "zageSICwzDK0Ky6iOwUta6fWQ5GHbvsZirXV7CHGl4A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net6.0\\blazor.boot.json"
@@ -57,6 +162,48 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.11\\build\\net6.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Bunit.Core.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Bunit.Core.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "esfavjwlo5",
+      "Integrity": "kqa64oSgb8qARrP7qBrN+yQtd3UyraXF4akT8ANAmDo=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\bunit.core\\1.6.4\\lib\\net6.0\\Bunit.Core.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Bunit.Web.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Bunit.Web.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "q8abzeq1lc",
+      "Integrity": "ZhznQjOofJKy1Wa0/VN5ShZ7jaEMIVvqDtpjSgMlFzk=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\bunit.web\\1.6.4\\lib\\net6.0\\Bunit.Web.dll"
     },
     {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\dotnet.js",
@@ -157,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "hvhoylri1k",
-      "Integrity": "fXYwR7bxa4lQDpaZMIDH8jbbfZzK3azkYzUrAYnaDFg=",
+      "Fingerprint": "fd8su924rx",
+      "Integrity": "nSRVl2coCE+GK/wUvVlcs6YBr6QdI8iSKymsOC9f4cY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net6.0\\GreenPipeline.dll"
@@ -178,8 +325,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "8oqwvjxo1k",
-      "Integrity": "+PWLpBl3pPjAF1drtTDxZxTbZgNCAE6J7cPH06chdFY=",
+      "Fingerprint": "pwczlbfeeq",
+      "Integrity": "Gd0XzydMwOx9urMf3g3lRc8AJzNirqUuGKLJui+I0qo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net6.0\\GreenPipeline.pdb"
@@ -269,6 +416,27 @@
       "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "bgrxlg56ui",
+      "Integrity": "xbEcMmsZVcvk5fX+1SeXPguS4wF3qoU0hqW3MlQa6O0=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.0\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
@@ -330,6 +498,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "v37v32njxf",
+      "Integrity": "RW+xmniLxj/WJzMgJkrEx0PPE8Mfx8uaUUOxRee8UkQ=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.0\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll"
     },
     {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -603,6 +792,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "e52llormob",
+      "Integrity": "IsNsEj5mpI14z1hJ6TttJINJodUpxrlSZjq2BG1crj4=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.Localization.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
@@ -4217,6 +4427,90 @@
       "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.36\\runtimes\\browser-wasm\\lib\\net6.0\\WindowsBase.dll"
     },
     {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.abstractions.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/xunit.abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "33abyssqis",
+      "Integrity": "MWbccDI/swzPHO2w/obyrRIsRtJUVCNC2QOG78TJKFw=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\xunit.abstractions\\2.0.3\\lib\\netstandard2.0\\xunit.abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.assert.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/xunit.assert.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "glgpuas8l9",
+      "Integrity": "vNlxGyLSJ6yM1MFWjnJDOg9XbS7IquZKxQgIGJIBWx0=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\xunit.assert\\2.9.3\\lib\\net6.0\\xunit.assert.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.core.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/xunit.core.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "9edwti75j4",
+      "Integrity": "L3/u7Ixt7H32hMJfuAqtspK5Y9CXI0YPA9U8WtIIisw=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\lib\\netstandard1.1\\xunit.core.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.execution.dotnet.dll",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/xunit.execution.dotnet.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "bfsomxr7cw",
+      "Integrity": "5w/r5UfBX4FV2z4tlcO6REWlnLwho+dUGrIu1J09z3s=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\lib\\netstandard1.1\\xunit.execution.dotnet.dll"
+    },
+    {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\0by485lsrz-du22tztk9e.gz",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
@@ -4427,6 +4721,27 @@
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\System.Net.ServicePoint.dll"
     },
     {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\2gjzrk9dj8-33abyssqis.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/xunit.abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0zcu8h0aqp",
+      "Integrity": "LAkkfgFEex5kcBKsKYsWsC9iZqnVDGxp6b+X86NSEvg=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\2qnvtjojoa-i0ucou0x72.gz",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
@@ -4446,6 +4761,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\2zrhnkpojh-bgrxlg56ui.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "y5uuyrsjvm",
+      "Integrity": "yt1XL+gmIfCj2XRY802ONoQBVbgUcs3LS4D6cq3hQVc=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\30xbf109dm-1v76x03gsv.gz",
@@ -4679,6 +5015,27 @@
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\System.Net.dll"
     },
     {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\49jllxit39-9edwti75j4.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/xunit.core.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.core.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "a945sipl5t",
+      "Integrity": "MmfioTeTUXKSWKMeoFHbG2ydwHHzDB2dA0quE+yYTzE=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.core.dll"
+    },
+    {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\4cslthpmfg-clo74tmcyc.gz",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
@@ -4847,7 +5204,7 @@
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.dll"
     },
     {
-      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\653awlkgsr-hvhoylri1k.gz",
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\653awlkgsr-fd8su924rx.gz",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
@@ -4861,8 +5218,8 @@
       "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\GreenPipeline.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "4my5pltj6l",
-      "Integrity": "fPuh+V3S9iktlVBb9qy+BOM4dZ/7WLapSqV8cPWRksU=",
+      "Fingerprint": "h9k9zmi0id",
+      "Integrity": "1Ql3k5JbhGEOc+SG6bq3XsGOrOyWtBP1G1Sagxd3dfI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\GreenPipeline.dll"
@@ -5477,6 +5834,27 @@
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\System.Console.dll"
     },
     {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\bayvqkgdih-f8c5ly818v.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AngleSharp.Css.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.Css.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tyx3u86hbn",
+      "Integrity": "S5MzKEXe8sbdy2vNrFBn/sb7AaK5NkHdiO3lizsJ2ok=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.Css.dll"
+    },
+    {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\bglvpuygi0-c6pen3kvyk.gz",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
@@ -5643,6 +6021,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\System.Globalization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\d1yvqmkbkv-v37v32njxf.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fy43rlw4uq",
+      "Integrity": "16q2krQDg1hq2xqiI2f0JGt63pNsVq+k4JlPIhRN+t0=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll"
     },
     {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\d9bye0p674-9fjbj5k2kd.gz",
@@ -6107,6 +6506,27 @@
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\System.Drawing.dll"
     },
     {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\i34m625ml9-glgpuas8l9.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/xunit.assert.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.assert.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kshwwppryq",
+      "Integrity": "FJY46z21QzJDphpCpFxAjpNbkhcdmGrLw5h/1wEMcyo=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.assert.dll"
+    },
+    {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\i4qic3mk7e-5fdzp1jnxe.gz",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
@@ -6168,6 +6588,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\System.Diagnostics.DiagnosticSource.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\ia6afezt5i-q8abzeq1lc.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Bunit.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Bunit.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7ahc5xliua",
+      "Integrity": "f/saEt9h7N1Wz+YyBGIngsyVPCKT+JMM0rS1p6iY7wY=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Bunit.Web.dll"
     },
     {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\ih7bpp0o6o-w1z3g8ztpn.gz",
@@ -6947,6 +7388,27 @@
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\System.Private.Runtime.InteropServices.JavaScript.dll"
     },
     {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\myfbtnnabv-k0zd6wnn3w.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AngleSharp.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "drqkiu3c2o",
+      "Integrity": "h4Ea3MN1x0HhTeAlTeqeJopgCa20Tcj5iVzvghocyS8=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.dll"
+    },
+    {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\nf96baphsl-7g9qkut7fb.gz",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
@@ -7115,7 +7577,7 @@
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\System.IO.UnmanagedMemoryStream.dll"
     },
     {
-      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\opdzstmttq-8oqwvjxo1k.gz",
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\opdzstmttq-pwczlbfeeq.gz",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
@@ -7129,8 +7591,8 @@
       "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\GreenPipeline.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "w3tld9l9wa",
-      "Integrity": "ZPhOPAGUPTS7r/joXrqaw8yzI/QtVWATtji7LhmV48k=",
+      "Fingerprint": "n8p1hec2aq",
+      "Integrity": "Bx/tArF/NEc8uwlmQE9rGc6y5Dg17vHtvvBmZdc5SVs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\GreenPipeline.pdb"
@@ -7157,7 +7619,7 @@
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\System.Net.WebProxy.dll"
     },
     {
-      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\ovgdtjpwzl-eh7cd7zgfp.gz",
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\ovgdtjpwzl-fd9vm0c6hf.gz",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
@@ -7171,8 +7633,8 @@
       "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ty2d8mfukv",
-      "Integrity": "ReCtrwFWlH1FOQ9cCPEc4yecESFufB3OZrhNgKiGRJo=",
+      "Fingerprint": "yap5c0q1om",
+      "Integrity": "WnutSDwMnHRyPIK9v4bLVwcA204LcyDb3uYRL+fVbng=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7680,6 +8142,48 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\System.Runtime.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\t5lfa59490-hmmiy12ejc.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AngleSharp.Diffing.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.Diffing.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "37otq8wmqd",
+      "Integrity": "vxkuCNxjnK14IHl9mS575Hf23Obs66HHFE63qg3SffM=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.Diffing.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\tbcz3uzxz6-e52llormob.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pt6im6ueca",
+      "Integrity": "8/5fIZqvH7u1mvVByxiK2kS09R5ZgXFaRVtnv81yp58=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\tbi6xva7r1-kmjfvhuzs9.gz",
@@ -8207,6 +8711,48 @@
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\xz1vdodc26-bfsomxr7cw.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/xunit.execution.dotnet.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.execution.dotnet.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vhyw1a9adp",
+      "Integrity": "XXD9BppEya3+6KPdLLoCISlvLtaUyiHT0kzjjmFyqmY=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.execution.dotnet.dll"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\y2oitjawue-5k6yqkzkkg.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AngleSharpWrappers.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharpWrappers.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zgqgmvi4nh",
+      "Integrity": "A7zsW3Qyg89Ca/sc4JXSZmEQrBELxNydn4kKp4ttXcc=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharpWrappers.dll"
+    },
+    {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\y56h765gkd-2ldqwybfac.gz",
       "SourceId": "GreenPipeline",
       "SourceType": "Computed",
@@ -8352,6 +8898,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\dotnet.timezones.blat"
+    },
+    {
+      "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\z2sztr6n9i-esfavjwlo5.gz",
+      "SourceId": "GreenPipeline",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Bunit.Core.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Bunit.Core.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4ryz5ijq0c",
+      "Integrity": "UAiW/T/iXVThdkwgTXCEgV02oTI2/Xk9w1QWjehlCPM=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Bunit.Core.dll"
     },
     {
       "Identity": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\zlnoidbr9n-lbv3gjafy7.gz",
@@ -8608,6 +9175,591 @@
   ],
   "Endpoints": [
     {
+      "Route": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication/AuthenticationService.js",
+      "AssetFile": "C:\\Users\\DENI\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.0\\staticwebassets\\AuthenticationService.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wn02IHGVHYWQvpPDhVA/vA/ICx8Xfh4I6vjapn2Wbxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Oct 2021 21:52:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wn02IHGVHYWQvpPDhVA/vA/ICx8Xfh4I6vjapn2Wbxk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharp.Css.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.Css.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "402432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L4oiiZjQs+l7Xpt/ZuDXQhX+T6F+nLqJBzpJ8IhIEUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Feb 2022 10:55:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L4oiiZjQs+l7Xpt/ZuDXQhX+T6F+nLqJBzpJ8IhIEUA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharp.Css.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\bayvqkgdih-f8c5ly818v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000006426611"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155602"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S5MzKEXe8sbdy2vNrFBn/sb7AaK5NkHdiO3lizsJ2ok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Feb 2022 10:55:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"L4oiiZjQs+l7Xpt/ZuDXQhX+T6F+nLqJBzpJ8IhIEUA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L4oiiZjQs+l7Xpt/ZuDXQhX+T6F+nLqJBzpJ8IhIEUA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharp.Css.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\bayvqkgdih-f8c5ly818v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S5MzKEXe8sbdy2vNrFBn/sb7AaK5NkHdiO3lizsJ2ok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Feb 2022 10:55:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S5MzKEXe8sbdy2vNrFBn/sb7AaK5NkHdiO3lizsJ2ok="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharp.Diffing.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.Diffing.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9xYYlWF6pOiyB0zh6SjECwfBCYr8sEodl5G0Qz6LCuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Sep 2021 05:51:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xYYlWF6pOiyB0zh6SjECwfBCYr8sEodl5G0Qz6LCuY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharp.Diffing.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\t5lfa59490-hmmiy12ejc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000033812342"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29574"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vxkuCNxjnK14IHl9mS575Hf23Obs66HHFE63qg3SffM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Sep 2021 05:51:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9xYYlWF6pOiyB0zh6SjECwfBCYr8sEodl5G0Qz6LCuY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xYYlWF6pOiyB0zh6SjECwfBCYr8sEodl5G0Qz6LCuY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharp.Diffing.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\t5lfa59490-hmmiy12ejc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vxkuCNxjnK14IHl9mS575Hf23Obs66HHFE63qg3SffM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Sep 2021 05:51:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vxkuCNxjnK14IHl9mS575Hf23Obs66HHFE63qg3SffM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharp.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharp.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "879104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fJcyDblaO8/mJ5RkUdiseQvBvxjmBHPshIgB/TLinT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Oct 2021 07:10:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fJcyDblaO8/mJ5RkUdiseQvBvxjmBHPshIgB/TLinT0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharp.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\myfbtnnabv-k0zd6wnn3w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003129851"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319503"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h4Ea3MN1x0HhTeAlTeqeJopgCa20Tcj5iVzvghocyS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Oct 2021 07:10:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fJcyDblaO8/mJ5RkUdiseQvBvxjmBHPshIgB/TLinT0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fJcyDblaO8/mJ5RkUdiseQvBvxjmBHPshIgB/TLinT0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharp.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\myfbtnnabv-k0zd6wnn3w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h4Ea3MN1x0HhTeAlTeqeJopgCa20Tcj5iVzvghocyS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Oct 2021 07:10:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h4Ea3MN1x0HhTeAlTeqeJopgCa20Tcj5iVzvghocyS8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharpWrappers.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\AngleSharpWrappers.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1005056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ta8nWTA9C8d1tZoAjD60w6GKaSlrO5T2sIyMoGs9ylU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jun 2021 13:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ta8nWTA9C8d1tZoAjD60w6GKaSlrO5T2sIyMoGs9ylU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharpWrappers.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\y2oitjawue-5k6yqkzkkg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003245984"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308072"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7zsW3Qyg89Ca/sc4JXSZmEQrBELxNydn4kKp4ttXcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jun 2021 13:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ta8nWTA9C8d1tZoAjD60w6GKaSlrO5T2sIyMoGs9ylU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ta8nWTA9C8d1tZoAjD60w6GKaSlrO5T2sIyMoGs9ylU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/AngleSharpWrappers.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\y2oitjawue-5k6yqkzkkg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7zsW3Qyg89Ca/sc4JXSZmEQrBELxNydn4kKp4ttXcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jun 2021 13:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7zsW3Qyg89Ca/sc4JXSZmEQrBELxNydn4kKp4ttXcc="
+        }
+      ]
+    },
+    {
       "Route": "_framework/blazor.boot.json",
       "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
       "Selectors": [],
@@ -8618,7 +9770,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19351"
+          "Value": "20551"
         },
         {
           "Name": "Content-Type",
@@ -8626,11 +9778,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4olGFUARUAgzU1RgBjMaDqp2zTAU9LHSca3wc9cioGQ=\""
+          "Value": "\"zageSICwzDK0Ky6iOwUta6fWQ5GHbvsZirXV7CHGl4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 13:37:12 GMT"
+          "Value": "Mon, 27 Jan 2025 16:35:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8640,18 +9792,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4olGFUARUAgzU1RgBjMaDqp2zTAU9LHSca3wc9cioGQ="
+          "Value": "sha256-zageSICwzDK0Ky6iOwUta6fWQ5GHbvsZirXV7CHGl4A="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\ovgdtjpwzl-eh7cd7zgfp.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\ovgdtjpwzl-fd9vm0c6hf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000115180834"
+          "Quality": "0.000106746371"
         }
       ],
       "ResponseHeaders": [
@@ -8661,15 +9813,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8681"
+          "Value": "9367"
         },
         {
           "Name": "ETag",
-          "Value": "\"ReCtrwFWlH1FOQ9cCPEc4yecESFufB3OZrhNgKiGRJo=\""
+          "Value": "\"WnutSDwMnHRyPIK9v4bLVwcA204LcyDb3uYRL+fVbng=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 11:16:37 GMT"
+          "Value": "Mon, 27 Jan 2025 16:34:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8689,19 +9841,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4olGFUARUAgzU1RgBjMaDqp2zTAU9LHSca3wc9cioGQ=\""
+          "Value": "W/\"zageSICwzDK0Ky6iOwUta6fWQ5GHbvsZirXV7CHGl4A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4olGFUARUAgzU1RgBjMaDqp2zTAU9LHSca3wc9cioGQ="
+          "Value": "sha256-zageSICwzDK0Ky6iOwUta6fWQ5GHbvsZirXV7CHGl4A="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\ovgdtjpwzl-eh7cd7zgfp.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\ovgdtjpwzl-fd9vm0c6hf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8710,7 +9862,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8681"
+          "Value": "9367"
         },
         {
           "Name": "Content-Type",
@@ -8718,11 +9870,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ReCtrwFWlH1FOQ9cCPEc4yecESFufB3OZrhNgKiGRJo=\""
+          "Value": "\"WnutSDwMnHRyPIK9v4bLVwcA204LcyDb3uYRL+fVbng=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 11:16:37 GMT"
+          "Value": "Mon, 27 Jan 2025 16:34:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8740,7 +9892,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ReCtrwFWlH1FOQ9cCPEc4yecESFufB3OZrhNgKiGRJo="
+          "Value": "sha256-WnutSDwMnHRyPIK9v4bLVwcA204LcyDb3uYRL+fVbng="
         }
       ]
     },
@@ -8878,6 +10030,280 @@
         {
           "Name": "integrity",
           "Value": "sha256-Qtj/gWD2t1rsy3QYbZDKz3tNinjTTG2D5TWKzlELuRc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Bunit.Core.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Bunit.Core.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kqa64oSgb8qARrP7qBrN+yQtd3UyraXF4akT8ANAmDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Feb 2022 15:48:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kqa64oSgb8qARrP7qBrN+yQtd3UyraXF4akT8ANAmDo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Bunit.Core.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\z2sztr6n9i-esfavjwlo5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000020224083"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49445"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UAiW/T/iXVThdkwgTXCEgV02oTI2/Xk9w1QWjehlCPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Feb 2022 15:48:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kqa64oSgb8qARrP7qBrN+yQtd3UyraXF4akT8ANAmDo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kqa64oSgb8qARrP7qBrN+yQtd3UyraXF4akT8ANAmDo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Bunit.Core.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\z2sztr6n9i-esfavjwlo5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UAiW/T/iXVThdkwgTXCEgV02oTI2/Xk9w1QWjehlCPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Feb 2022 15:48:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UAiW/T/iXVThdkwgTXCEgV02oTI2/Xk9w1QWjehlCPM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Bunit.Web.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Bunit.Web.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZhznQjOofJKy1Wa0/VN5ShZ7jaEMIVvqDtpjSgMlFzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Feb 2022 15:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZhznQjOofJKy1Wa0/VN5ShZ7jaEMIVvqDtpjSgMlFzk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Bunit.Web.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\ia6afezt5i-q8abzeq1lc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010762872"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92911"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f/saEt9h7N1Wz+YyBGIngsyVPCKT+JMM0rS1p6iY7wY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Feb 2022 15:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZhznQjOofJKy1Wa0/VN5ShZ7jaEMIVvqDtpjSgMlFzk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZhznQjOofJKy1Wa0/VN5ShZ7jaEMIVvqDtpjSgMlFzk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Bunit.Web.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\ia6afezt5i-q8abzeq1lc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f/saEt9h7N1Wz+YyBGIngsyVPCKT+JMM0rS1p6iY7wY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Feb 2022 15:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f/saEt9h7N1Wz+YyBGIngsyVPCKT+JMM0rS1p6iY7wY="
         }
       ]
     },
@@ -9440,7 +10866,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17920"
+          "Value": "18432"
         },
         {
           "Name": "Content-Type",
@@ -9448,11 +10874,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fXYwR7bxa4lQDpaZMIDH8jbbfZzK3azkYzUrAYnaDFg=\""
+          "Value": "\"nSRVl2coCE+GK/wUvVlcs6YBr6QdI8iSKymsOC9f4cY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 13:37:11 GMT"
+          "Value": "Mon, 27 Jan 2025 16:35:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9462,18 +10888,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fXYwR7bxa4lQDpaZMIDH8jbbfZzK3azkYzUrAYnaDFg="
+          "Value": "sha256-nSRVl2coCE+GK/wUvVlcs6YBr6QdI8iSKymsOC9f4cY="
         }
       ]
     },
     {
       "Route": "_framework/GreenPipeline.dll",
-      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\653awlkgsr-hvhoylri1k.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\653awlkgsr-fd8su924rx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000128270908"
+          "Quality": "0.000124859533"
         }
       ],
       "ResponseHeaders": [
@@ -9483,15 +10909,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7795"
+          "Value": "8008"
         },
         {
           "Name": "ETag",
-          "Value": "\"fPuh+V3S9iktlVBb9qy+BOM4dZ/7WLapSqV8cPWRksU=\""
+          "Value": "\"1Ql3k5JbhGEOc+SG6bq3XsGOrOyWtBP1G1Sagxd3dfI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 11:16:36 GMT"
+          "Value": "Mon, 27 Jan 2025 16:34:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9511,19 +10937,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fXYwR7bxa4lQDpaZMIDH8jbbfZzK3azkYzUrAYnaDFg=\""
+          "Value": "W/\"nSRVl2coCE+GK/wUvVlcs6YBr6QdI8iSKymsOC9f4cY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fXYwR7bxa4lQDpaZMIDH8jbbfZzK3azkYzUrAYnaDFg="
+          "Value": "sha256-nSRVl2coCE+GK/wUvVlcs6YBr6QdI8iSKymsOC9f4cY="
         }
       ]
     },
     {
       "Route": "_framework/GreenPipeline.dll.gz",
-      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\653awlkgsr-hvhoylri1k.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\653awlkgsr-fd8su924rx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9532,7 +10958,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7795"
+          "Value": "8008"
         },
         {
           "Name": "Content-Type",
@@ -9540,11 +10966,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fPuh+V3S9iktlVBb9qy+BOM4dZ/7WLapSqV8cPWRksU=\""
+          "Value": "\"1Ql3k5JbhGEOc+SG6bq3XsGOrOyWtBP1G1Sagxd3dfI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 11:16:36 GMT"
+          "Value": "Mon, 27 Jan 2025 16:34:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9562,7 +10988,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fPuh+V3S9iktlVBb9qy+BOM4dZ/7WLapSqV8cPWRksU="
+          "Value": "sha256-1Ql3k5JbhGEOc+SG6bq3XsGOrOyWtBP1G1Sagxd3dfI="
         }
       ]
     },
@@ -9577,7 +11003,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22992"
+          "Value": "24008"
         },
         {
           "Name": "Content-Type",
@@ -9585,11 +11011,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+PWLpBl3pPjAF1drtTDxZxTbZgNCAE6J7cPH06chdFY=\""
+          "Value": "\"Gd0XzydMwOx9urMf3g3lRc8AJzNirqUuGKLJui+I0qo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 13:37:11 GMT"
+          "Value": "Mon, 27 Jan 2025 16:35:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9599,18 +11025,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+PWLpBl3pPjAF1drtTDxZxTbZgNCAE6J7cPH06chdFY="
+          "Value": "sha256-Gd0XzydMwOx9urMf3g3lRc8AJzNirqUuGKLJui+I0qo="
         }
       ]
     },
     {
       "Route": "_framework/GreenPipeline.pdb",
-      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\opdzstmttq-8oqwvjxo1k.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\opdzstmttq-pwczlbfeeq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000059833662"
+          "Quality": "0.000058011370"
         }
       ],
       "ResponseHeaders": [
@@ -9620,15 +11046,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16712"
+          "Value": "17237"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZPhOPAGUPTS7r/joXrqaw8yzI/QtVWATtji7LhmV48k=\""
+          "Value": "\"Bx/tArF/NEc8uwlmQE9rGc6y5Dg17vHtvvBmZdc5SVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 11:16:36 GMT"
+          "Value": "Mon, 27 Jan 2025 16:34:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9648,19 +11074,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+PWLpBl3pPjAF1drtTDxZxTbZgNCAE6J7cPH06chdFY=\""
+          "Value": "W/\"Gd0XzydMwOx9urMf3g3lRc8AJzNirqUuGKLJui+I0qo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+PWLpBl3pPjAF1drtTDxZxTbZgNCAE6J7cPH06chdFY="
+          "Value": "sha256-Gd0XzydMwOx9urMf3g3lRc8AJzNirqUuGKLJui+I0qo="
         }
       ]
     },
     {
       "Route": "_framework/GreenPipeline.pdb.gz",
-      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\opdzstmttq-8oqwvjxo1k.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\opdzstmttq-pwczlbfeeq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9669,7 +11095,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16712"
+          "Value": "17237"
         },
         {
           "Name": "Content-Type",
@@ -9677,11 +11103,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZPhOPAGUPTS7r/joXrqaw8yzI/QtVWATtji7LhmV48k=\""
+          "Value": "\"Bx/tArF/NEc8uwlmQE9rGc6y5Dg17vHtvvBmZdc5SVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 11:16:36 GMT"
+          "Value": "Mon, 27 Jan 2025 16:34:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9699,7 +11125,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZPhOPAGUPTS7r/joXrqaw8yzI/QtVWATtji7LhmV48k="
+          "Value": "sha256-Bx/tArF/NEc8uwlmQE9rGc6y5Dg17vHtvvBmZdc5SVs="
         }
       ]
     },
@@ -10252,6 +11678,143 @@
       ]
     },
     {
+      "Route": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xbEcMmsZVcvk5fX+1SeXPguS4wF3qoU0hqW3MlQa6O0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Oct 2021 21:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xbEcMmsZVcvk5fX+1SeXPguS4wF3qoU0hqW3MlQa6O0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\2zrhnkpojh-bgrxlg56ui.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000065125366"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15354"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yt1XL+gmIfCj2XRY802ONoQBVbgUcs3LS4D6cq3hQVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Oct 2021 21:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xbEcMmsZVcvk5fX+1SeXPguS4wF3qoU0hqW3MlQa6O0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xbEcMmsZVcvk5fX+1SeXPguS4wF3qoU0hqW3MlQa6O0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\2zrhnkpojh-bgrxlg56ui.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yt1XL+gmIfCj2XRY802ONoQBVbgUcs3LS4D6cq3hQVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Oct 2021 21:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yt1XL+gmIfCj2XRY802ONoQBVbgUcs3LS4D6cq3hQVc="
+        }
+      ]
+    },
+    {
       "Route": "_framework/Microsoft.AspNetCore.Components.dll",
       "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
       "Selectors": [],
@@ -10659,6 +12222,143 @@
         {
           "Name": "integrity",
           "Value": "sha256-/s8VEAfULFIFU8Q+u58+5CHFRFAIFmNkhID9dvdt0eU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RW+xmniLxj/WJzMgJkrEx0PPE8Mfx8uaUUOxRee8UkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Oct 2021 21:52:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RW+xmniLxj/WJzMgJkrEx0PPE8Mfx8uaUUOxRee8UkQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\d1yvqmkbkv-v37v32njxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030546476"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32736"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16q2krQDg1hq2xqiI2f0JGt63pNsVq+k4JlPIhRN+t0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Oct 2021 21:52:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RW+xmniLxj/WJzMgJkrEx0PPE8Mfx8uaUUOxRee8UkQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RW+xmniLxj/WJzMgJkrEx0PPE8Mfx8uaUUOxRee8UkQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\d1yvqmkbkv-v37v32njxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16q2krQDg1hq2xqiI2f0JGt63pNsVq+k4JlPIhRN+t0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Oct 2021 21:52:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-16q2krQDg1hq2xqiI2f0JGt63pNsVq+k4JlPIhRN+t0="
         }
       ]
     },
@@ -12440,6 +14140,143 @@
         {
           "Name": "integrity",
           "Value": "sha256-4YHqaJMOvBdAMFiVGaf3x5pUmActPh+U3x4oN7A83cQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.Abstractions.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IsNsEj5mpI14z1hJ6TttJINJodUpxrlSZjq2BG1crj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Oct 2021 21:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IsNsEj5mpI14z1hJ6TttJINJodUpxrlSZjq2BG1crj4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.Abstractions.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\tbcz3uzxz6-e52llormob.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000100070049"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9992"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8/5fIZqvH7u1mvVByxiK2kS09R5ZgXFaRVtnv81yp58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Oct 2021 21:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IsNsEj5mpI14z1hJ6TttJINJodUpxrlSZjq2BG1crj4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IsNsEj5mpI14z1hJ6TttJINJodUpxrlSZjq2BG1crj4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.Abstractions.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\tbcz3uzxz6-e52llormob.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8/5fIZqvH7u1mvVByxiK2kS09R5ZgXFaRVtnv81yp58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Oct 2021 21:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8/5fIZqvH7u1mvVByxiK2kS09R5ZgXFaRVtnv81yp58="
         }
       ]
     },
@@ -36004,6 +37841,554 @@
         {
           "Name": "integrity",
           "Value": "sha256-2ajTULRtA9sCx4eUcRE8ysR+LCMb1zxHVGRtHYEIsEU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.abstractions.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.abstractions.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MWbccDI/swzPHO2w/obyrRIsRtJUVCNC2QOG78TJKFw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Aug 2018 19:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MWbccDI/swzPHO2w/obyrRIsRtJUVCNC2QOG78TJKFw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.abstractions.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\2gjzrk9dj8-33abyssqis.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000091558323"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10921"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LAkkfgFEex5kcBKsKYsWsC9iZqnVDGxp6b+X86NSEvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Aug 2018 19:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MWbccDI/swzPHO2w/obyrRIsRtJUVCNC2QOG78TJKFw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MWbccDI/swzPHO2w/obyrRIsRtJUVCNC2QOG78TJKFw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.abstractions.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\2gjzrk9dj8-33abyssqis.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LAkkfgFEex5kcBKsKYsWsC9iZqnVDGxp6b+X86NSEvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Aug 2018 19:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LAkkfgFEex5kcBKsKYsWsC9iZqnVDGxp6b+X86NSEvg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.assert.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.assert.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vNlxGyLSJ6yM1MFWjnJDOg9XbS7IquZKxQgIGJIBWx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 17:29:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vNlxGyLSJ6yM1MFWjnJDOg9XbS7IquZKxQgIGJIBWx0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.assert.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\i34m625ml9-glgpuas8l9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010632303"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94052"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FJY46z21QzJDphpCpFxAjpNbkhcdmGrLw5h/1wEMcyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 17:29:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vNlxGyLSJ6yM1MFWjnJDOg9XbS7IquZKxQgIGJIBWx0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vNlxGyLSJ6yM1MFWjnJDOg9XbS7IquZKxQgIGJIBWx0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.assert.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\i34m625ml9-glgpuas8l9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FJY46z21QzJDphpCpFxAjpNbkhcdmGrLw5h/1wEMcyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 17:29:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FJY46z21QzJDphpCpFxAjpNbkhcdmGrLw5h/1wEMcyo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.core.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.core.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L3/u7Ixt7H32hMJfuAqtspK5Y9CXI0YPA9U8WtIIisw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 17:29:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L3/u7Ixt7H32hMJfuAqtspK5Y9CXI0YPA9U8WtIIisw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.core.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\49jllxit39-9edwti75j4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000024112654"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41471"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MmfioTeTUXKSWKMeoFHbG2ydwHHzDB2dA0quE+yYTzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 17:29:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"L3/u7Ixt7H32hMJfuAqtspK5Y9CXI0YPA9U8WtIIisw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L3/u7Ixt7H32hMJfuAqtspK5Y9CXI0YPA9U8WtIIisw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.core.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\49jllxit39-9edwti75j4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MmfioTeTUXKSWKMeoFHbG2ydwHHzDB2dA0quE+yYTzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 17:29:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MmfioTeTUXKSWKMeoFHbG2ydwHHzDB2dA0quE+yYTzE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.execution.dotnet.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\bin\\Release\\net6.0\\wwwroot\\_framework\\xunit.execution.dotnet.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5w/r5UfBX4FV2z4tlcO6REWlnLwho+dUGrIu1J09z3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 17:30:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5w/r5UfBX4FV2z4tlcO6REWlnLwho+dUGrIu1J09z3s="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.execution.dotnet.dll",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\xz1vdodc26-bfsomxr7cw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000006754794"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148042"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XXD9BppEya3+6KPdLLoCISlvLtaUyiHT0kzjjmFyqmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 17:30:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5w/r5UfBX4FV2z4tlcO6REWlnLwho+dUGrIu1J09z3s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5w/r5UfBX4FV2z4tlcO6REWlnLwho+dUGrIu1J09z3s="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/xunit.execution.dotnet.dll.gz",
+      "AssetFile": "C:\\Users\\DENI\\source\\repos\\GreenPipelineDemo\\GreenPipeline\\obj\\Release\\net6.0\\compressed\\xz1vdodc26-bfsomxr7cw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XXD9BppEya3+6KPdLLoCISlvLtaUyiHT0kzjjmFyqmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 17:30:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XXD9BppEya3+6KPdLLoCISlvLtaUyiHT0kzjjmFyqmY="
         }
       ]
     },

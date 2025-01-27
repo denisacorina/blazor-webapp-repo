@@ -1,7 +1,7 @@
 {
   "entryAssembly": "GreenPipeline",
   "resources": {
-    "hash": "sha256-OY+5ku4Cqvwiq9kAcSb3kXvTODUxiROHspcEWHBSSAM=",
+    "hash": "sha256-3Gz+x0Ea9UUpK5l3pumjqCNT0A5uZz8gnC/Ea1LNfVE=",
     "runtime": {
       "dotnet.js": "sha256-pu7MO47B6So4jcW6iY2UI11lBZYz2EQnJKiYNsOpNJg=",
       "dotnet.timezones.blat": "sha256-vrFYQt55a4tGoDGoyRfjjGa1nSecx646RK78iTzPWCM=",
@@ -12,11 +12,19 @@
     },
     "coreAssembly": {},
     "assembly": {
+      "AngleSharp.dll": "sha256-fJcyDblaO8/mJ5RkUdiseQvBvxjmBHPshIgB/TLinT0=",
+      "AngleSharp.Css.dll": "sha256-L4oiiZjQs+l7Xpt/ZuDXQhX+T6F+nLqJBzpJ8IhIEUA=",
+      "AngleSharp.Diffing.dll": "sha256-9xYYlWF6pOiyB0zh6SjECwfBCYr8sEodl5G0Qz6LCuY=",
+      "AngleSharpWrappers.dll": "sha256-ta8nWTA9C8d1tZoAjD60w6GKaSlrO5T2sIyMoGs9ylU=",
+      "Bunit.Core.dll": "sha256-kqa64oSgb8qARrP7qBrN+yQtd3UyraXF4akT8ANAmDo=",
+      "Bunit.Web.dll": "sha256-ZhznQjOofJKy1Wa0/VN5ShZ7jaEMIVvqDtpjSgMlFzk=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-XBf6Fkkj3RbYzEYJK50myG8AEUvn0E0yo79DWqFFF6s=",
       "Microsoft.AspNetCore.Components.dll": "sha256-UkZxt/OLN+4go5yeFeBuXEx05BEm9nw5pNpR7smgtq4=",
+      "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-xbEcMmsZVcvk5fX+1SeXPguS4wF3qoU0hqW3MlQa6O0=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-Tb2pZ0EzhqIJ5HZiejbBy3MBrA+zY+77w58Gae1c0pQ=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-SuNk6pu0VYvOrLD8o4+xeB+eHRkkv0mHCl4LKVRg8u8=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-iFHifhevHZX+xH2Yvy/NOtvEAaDO3UmaXwyup/g32Ak=",
+      "Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll": "sha256-RW+xmniLxj/WJzMgJkrEx0PPE8Mfx8uaUUOxRee8UkQ=",
       "Microsoft.AspNetCore.Metadata.dll": "sha256-3TE7F3H4g8o6S+SpkGTHlSmBCMvOi8GcBNHZIGLPg8s=",
       "Microsoft.Extensions.Configuration.dll": "sha256-c8yYhfrOBLEnOBglLTu9peXSbJDwFpuT4UQiXSv28Og=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-5Otet+KKVUjNkE/hqcNWmt75H1K2VNuKPFagpRd6Ces=",
@@ -28,6 +36,7 @@
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-7PzvEcQvpK1c8tTX9VPI8AF+XrekqbAytNBQXJjvTvQ=",
       "Microsoft.Extensions.FileProviders.Physical.dll": "sha256-sXujvGMZDgBBZ9HqfcEq9XsM0pvwyhPt60NA9qLDzGI=",
       "Microsoft.Extensions.FileSystemGlobbing.dll": "sha256-viiXOG0fwhWobT0TQ1ZOJiZBdRvYRlWbDtjz+6d8sQI=",
+      "Microsoft.Extensions.Localization.Abstractions.dll": "sha256-IsNsEj5mpI14z1hJ6TttJINJodUpxrlSZjq2BG1crj4=",
       "Microsoft.Extensions.Logging.dll": "sha256-GDZQCBtVHfrZZ6fL95lGoinLeUWLjQShLbfESwO7mrc=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-TeK78LW1mefI/Ao7uFcK6TBhgjx9HUMSm3nqBsUC6pI=",
       "Microsoft.Extensions.Options.dll": "sha256-eGESyy9mRu8RcCGajAu4E8nxSmeB5nxiZkFPVaZ5Vl0=",
@@ -35,6 +44,10 @@
       "Microsoft.JSInterop.dll": "sha256-8rJkvKxV/xke9flVSby3wXsdofRAr9AzsMeVjUmVAMo=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-9Kkxpe/nXXP3FmowCjDeA4p54SbRWz0G1d0lfgRni0c=",
       "System.IO.Pipelines.dll": "sha256-6+E55JXedimdw1c1bDtVg4K7XuWjVWVTifH8QpfzXSY=",
+      "xunit.abstractions.dll": "sha256-MWbccDI/swzPHO2w/obyrRIsRtJUVCNC2QOG78TJKFw=",
+      "xunit.assert.dll": "sha256-vNlxGyLSJ6yM1MFWjnJDOg9XbS7IquZKxQgIGJIBWx0=",
+      "xunit.core.dll": "sha256-L3/u7Ixt7H32hMJfuAqtspK5Y9CXI0YPA9U8WtIIisw=",
+      "xunit.execution.dotnet.dll": "sha256-5w/r5UfBX4FV2z4tlcO6REWlnLwho+dUGrIu1J09z3s=",
       "Microsoft.CSharp.dll": "sha256-a+nDLvLyZVNx5P18//Ytk6KfcH5Fdcea6iK9ddjs90M=",
       "Microsoft.VisualBasic.Core.dll": "sha256-maD03dkDa6DbV+w2b3QzzlaZTryvAoKzQxRMYDIQq4k=",
       "Microsoft.VisualBasic.dll": "sha256-uuDJ6+7dFQGszh+Yfvtba/4FKG3seL0COeawnkmu5Bo=",
@@ -201,10 +214,10 @@
       "mscorlib.dll": "sha256-FHccFgM8rcGOQ8oacA4eEgiiOynHayVKyd2ICq3Bo4w=",
       "netstandard.dll": "sha256-D91viTBgwuzeuIOx1KgBYnoY0hl2IpcBu/zr22Fu0BU=",
       "System.Private.CoreLib.dll": "sha256-5FbWgChEgLPlYByi8VsHTisbCpgMNSbf95JK5dVOs50=",
-      "GreenPipeline.dll": "sha256-fXYwR7bxa4lQDpaZMIDH8jbbfZzK3azkYzUrAYnaDFg="
+      "GreenPipeline.dll": "sha256-nSRVl2coCE+GK/wUvVlcs6YBr6QdI8iSKymsOC9f4cY="
     },
     "pdb": {
-      "GreenPipeline.pdb": "sha256-+PWLpBl3pPjAF1drtTDxZxTbZgNCAE6J7cPH06chdFY="
+      "GreenPipeline.pdb": "sha256-Gd0XzydMwOx9urMf3g3lRc8AJzNirqUuGKLJui+I0qo="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

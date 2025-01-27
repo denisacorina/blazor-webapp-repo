@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenPipeline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe2231a8c7fe9cf91f7f2924e969a00d34811bda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9b6c00cf2ba556fe3fad11f6c38bac1f89764c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenPipeline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenPipeline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
