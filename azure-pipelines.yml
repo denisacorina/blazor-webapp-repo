@@ -12,6 +12,9 @@ pool:
     - agent.name -equals GreenAgent
   vmImage: ubuntu-latest
 
+workspace:
+  clean: none
+
 variables:
   azureSubscription: 'AzureStudentConnection'
   appServiceName: 'GreenPipeline'
@@ -25,6 +28,8 @@ steps:
     packageType: 'sdk'
     version: '6.x' # Specify your .NET version
     installationPath: $(Agent.ToolsDirectory)/dotnet
+- publish: $(Build.ArtifactStagingDirectory)
+  artifact: PipelineOutputs
 
 # Restore and Build Blazor Server
 - script: |
