@@ -813,9 +813,6 @@ C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\co
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\compressed\unq3vvciaw-1g6dzeoluu.gz
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\compressed\lr07fonpmk-xxwcmr94me.gz
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\compressed\mudvzoi7vp-pf4yq2tlc6.gz
-C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\compressed\653awlkgsr-coo6m47vkz.gz
-C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\compressed\opdzstmttq-ucgwryxk39.gz
-C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\compressed\ovgdtjpwzl-5s6872oz9k.gz
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\staticwebassets.build.json
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\staticwebassets.development.json
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\staticwebassets.build.endpoints.json
@@ -825,9 +822,11 @@ C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\st
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.GreenPipeline.props
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.GreenPipeline.props
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\staticwebassets.pack.json
-C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\staticwebassets.upToDateCheck.txt
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\GreenPip.0E5D9069.Up2Date
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\GreenPipeline.dll
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\refint\GreenPipeline.dll
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\GreenPipeline.pdb
 C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\ref\GreenPipeline.dll
+C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\compressed\653awlkgsr-hvhoylri1k.gz
+C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\compressed\opdzstmttq-8oqwvjxo1k.gz
+C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\obj\Release\net6.0\compressed\ovgdtjpwzl-eh7cd7zgfp.gz

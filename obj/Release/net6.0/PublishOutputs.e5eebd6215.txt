@@ -1,0 +1,7 @@
+C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\publish\publish\web.config
+C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\publish\publish\emcc-props.json
+C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\publish\publish\GreenPipeline.staticwebassets.endpoints.json
+C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\publish\publish\wwwroot\sample-data\weather.json
+C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\publish\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\publish\emcc-props.json
+C:\Users\DENI\source\repos\GreenPipelineDemo\GreenPipeline\publish\web.config
