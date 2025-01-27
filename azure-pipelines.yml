@@ -12,8 +12,6 @@ pool:
     - agent.name -equals GreenAgent
   vmImage: ubuntu-latest
 
-workspace:
-  clean: none
 
 variables:
   azureSubscription: 'AzureStudentConnection'
@@ -26,10 +24,12 @@ steps:
 - task: UseDotNet@2
   inputs:
     packageType: 'sdk'
-    version: '6.x' # Specify your .NET version
+    version: '6.x' 
     installationPath: $(Agent.ToolsDirectory)/dotnet
 - publish: $(Build.ArtifactStagingDirectory)
   artifact: PipelineOutputs
+
+- script: dotnet test
 
 # Restore and Build Blazor Server
 - script: |
