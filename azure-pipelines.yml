@@ -9,7 +9,7 @@ trigger:
 pool:
   name: Agent
   demands:
-    - agent.name -equals Green
+    - agent.name -equals GreenAgent
   vmImage: ubuntu-latest
 
 variables:
