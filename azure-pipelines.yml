@@ -34,7 +34,7 @@ steps:
 - task: AzureRmWebAppDeployment@4
   inputs:
     ConnectionType: 'AzureRM'
-    azureSubscription: '<Your-Azure-Subscription>'
+    azureSubscription: '4c4af21d-6d45-481e-a999-1e98d4495c76'
     appType: 'webAppLinux'
-    WebAppName: '<Your-WebApp-Name>'
+    WebAppName: 'GreenPipeline'
     packageForLinux: '$(outputDir)'
